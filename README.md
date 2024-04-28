@@ -1,2 +1,2 @@
-# GIT_Commands
+# Git_Commands
 Collection of Git commands
